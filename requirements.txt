@@ -1,0 +1,12 @@
+Faker
+matplotlib
+numpy
+openpyxl
+pandas
+plotly
+pyarrow
+pysentimiento
+scikit-learn
+seaborn
+shap
+wordcloud
