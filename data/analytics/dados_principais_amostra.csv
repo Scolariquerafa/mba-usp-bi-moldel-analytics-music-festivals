@@ -1,0 +1,51 @@
+id_interacao,id_participante,segmento_interagido,tipo_interacao,tempo_de_espera,avaliacao_experiencia_ativacao,avaliacao_brinde,satisfacao_segmento,recomendaria_segmento,idade,genero,localizacao,valor_gasto,frequencia_festival,dia_festival,nota_lineup,satisfacao_festival,segmento_mais_lembrado,faixa_etaria,perfil_participante
+1,1,Serviços Financeiros,Visita a Estande,18,3,2,"2,2",FALSE,31,Masculino,São Paulo,"372,61",Primeira vez,Hip-Hop/Rap,"5,1",10,Serviços Financeiros,Adulto (26-35),Veterano Insatisfeito
+2,2,Beleza,Visita a Estande,20,4,1,"3,1",TRUE,26,Masculino,Rio De Janeiro,"809,14",Primeira vez,Eletrônico,7,10,Beleza,Adulto (26-35),Veterano Insatisfeito
+3,3,Bebida Não Alcoólica,Compra de Produto,10,2,0,"1,2",FALSE,33,Masculino,Rio De Janeiro,"448,74",Ocasional,Hip-Hop/Rap,"4,7","9,4",Bebida Não Alcoólica,Adulto (26-35),Veterano Insatisfeito
+4,4,Beleza,Visita a Estande,43,4,2,"2,9",TRUE,40,Masculino,Rio De Janeiro,"245,24",Veterano(a),Pop,10,"6,5",Beleza,Meia-idade (36-45),Veterano Insatisfeito
+5,4,Seguros,Compra de Produto,8,1,1,1,FALSE,40,Masculino,Rio De Janeiro,"245,24",Veterano(a),Pop,10,"6,5",Beleza,Meia-idade (36-45),Veterano Insatisfeito
+6,4,Serviços Financeiros,Visita a Estande,8,3,0,"1,8",FALSE,40,Masculino,Rio De Janeiro,"245,24",Veterano(a),Pop,10,"6,5",Beleza,Meia-idade (36-45),Veterano Insatisfeito
+7,4,Postos de Combustível,Visita a Estande,15,4,3,"2,6",FALSE,40,Masculino,Rio De Janeiro,"245,24",Veterano(a),Pop,10,"6,5",Beleza,Meia-idade (36-45),Veterano Insatisfeito
+8,5,Beleza,Participou de Ativação,3,1,0,1,FALSE,26,Feminino,Belo Horizonte,"111,29",Primeira vez,Hip-Hop/Rap,"9,8","8,9",Bebida Alcoólica,Adulto (26-35),Veterano Insatisfeito
+9,5,Alimentos,Compra de Produto,5,2,0,"1,4",FALSE,26,Feminino,Belo Horizonte,"111,29",Primeira vez,Hip-Hop/Rap,"9,8","8,9",Bebida Alcoólica,Adulto (26-35),Veterano Insatisfeito
+10,5,Bebida Alcoólica,Compra de Produto,6,3,3,"2,2",TRUE,26,Feminino,Belo Horizonte,"111,29",Primeira vez,Hip-Hop/Rap,"9,8","8,9",Bebida Alcoólica,Adulto (26-35),Veterano Insatisfeito
+11,6,Beleza,Compra de Produto,39,2,0,1,FALSE,26,Masculino,São Paulo,420,Veterano(a),Pop,"6,6","6,8",Beleza,Adulto (26-35),Veterano Insatisfeito
+12,7,Chocolates,Compra de Produto,13,3,0,"1,5",FALSE,40,Masculino,Outros,"106,76",Ocasional,Rock,"6,4","7,8",Alimentos,Meia-idade (36-45),Veterano Insatisfeito
+13,7,Bebida Não Alcoólica,Compra de Produto,8,1,0,1,FALSE,40,Masculino,Outros,"106,76",Ocasional,Rock,"6,4","7,8",Alimentos,Meia-idade (36-45),Veterano Insatisfeito
+14,7,Alimentos,Visita a Estande,5,5,0,"3,5",TRUE,40,Masculino,Outros,"106,76",Ocasional,Rock,"6,4","7,8",Alimentos,Meia-idade (36-45),Veterano Insatisfeito
+15,8,Chocolates,Visita a Estande,8,2,5,"2,2",FALSE,34,Feminino,Rio De Janeiro,"148,37",Veterano(a),Eletrônico,6,"8,5",Automobilismo,Adulto (26-35),Veterano Insatisfeito
+16,8,Automobilismo,Compra de Produto,8,4,0,"3,2",TRUE,34,Feminino,Rio De Janeiro,"148,37",Veterano(a),Eletrônico,6,"8,5",Automobilismo,Adulto (26-35),Veterano Insatisfeito
+17,8,Postos de Combustível,Compra de Produto,12,2,0,1,FALSE,34,Feminino,Rio De Janeiro,"148,37",Veterano(a),Eletrônico,6,"8,5",Automobilismo,Adulto (26-35),Veterano Insatisfeito
+18,8,Seguros,Compra de Produto,24,1,2,1,FALSE,34,Feminino,Rio De Janeiro,"148,37",Veterano(a),Eletrônico,6,"8,5",Automobilismo,Adulto (26-35),Veterano Insatisfeito
+19,9,Moda,Compra de Produto,14,4,0,2,FALSE,24,Masculino,Rio De Janeiro,"202,79",Veterano(a),Rock,"9,3","6,6",Moda,Jovem (18-25),Veterano Insatisfeito
+20,10,Chocolates,Compra de Produto,4,1,0,1,FALSE,32,Feminino,Rio de Janeiro,"253,4",Primeira vez,Hip-Hop/Rap,"5,4","8,2",Chocolates,Adulto (26-35),Veterano Insatisfeito
+21,11,Bebida Alcoólica,Participou de Ativação,22,2,0,"1,1",FALSE,24,Feminino,Rio De Janeiro,"308,84",Ocasional,Hip-Hop/Rap,"5,5","8,1",Seguros,Jovem (18-25),Veterano Insatisfeito
+22,11,Seguros,Visita a Estande,11,3,0,"1,8",FALSE,24,Feminino,Rio De Janeiro,"308,84",Ocasional,Hip-Hop/Rap,"5,5","8,1",Seguros,Jovem (18-25),Veterano Insatisfeito
+23,11,Moda,Visita a Estande,4,1,0,1,FALSE,24,Feminino,Rio De Janeiro,"308,84",Ocasional,Hip-Hop/Rap,"5,5","8,1",Seguros,Jovem (18-25),Veterano Insatisfeito
+24,12,Postos de Combustível,Visita a Estande,8,2,0,"1,6",FALSE,24,Masculino,São Paulo,"190,74",Veterano(a),Pop,"9,4",10,Postos de Combustível,Jovem (18-25),Veterano Insatisfeito
+25,12,Telecomunicações,Compra de Produto,16,1,0,1,FALSE,24,Masculino,São Paulo,"190,74",Veterano(a),Pop,"9,4",10,Postos de Combustível,Jovem (18-25),Veterano Insatisfeito
+26,13,Seguros,Compra de Produto,16,2,0,1,FALSE,29,Feminino,Rio De Janeiro,"455,61",Veterano(a),Hip-Hop/Rap,"7,5","9,5",Alimentos,Adulto (26-35),Veterano Insatisfeito
+27,13,Alimentos,Visita a Estande,7,4,0,"2,9",FALSE,29,Feminino,Rio De Janeiro,"455,61",Veterano(a),Hip-Hop/Rap,"7,5","9,5",Alimentos,Adulto (26-35),Veterano Insatisfeito
+28,13,Serviços Financeiros,Compra de Produto,28,2,4,2,FALSE,29,Feminino,Rio De Janeiro,"455,61",Veterano(a),Hip-Hop/Rap,"7,5","9,5",Alimentos,Adulto (26-35),Veterano Insatisfeito
+29,14,Alimentos,Compra de Produto,6,4,0,"2,6",FALSE,18,Feminino,Rio de Janeiro,"596,72",Ocasional,Rock,"8,4","6,4",Bebida Não Alcoólica,Jovem (18-25),Veterano Insatisfeito
+30,14,Bebida Não Alcoólica,Compra de Produto,16,5,0,"3,5",TRUE,18,Feminino,Rio de Janeiro,"596,72",Ocasional,Rock,"8,4","6,4",Bebida Não Alcoólica,Jovem (18-25),Veterano Insatisfeito
+31,14,Chocolates,Compra de Produto,8,1,0,1,FALSE,18,Feminino,Rio de Janeiro,"596,72",Ocasional,Rock,"8,4","6,4",Bebida Não Alcoólica,Jovem (18-25),Veterano Insatisfeito
+32,14,Seguros,Compra de Produto,5,1,0,1,FALSE,18,Feminino,Rio de Janeiro,"596,72",Ocasional,Rock,"8,4","6,4",Bebida Não Alcoólica,Jovem (18-25),Veterano Insatisfeito
+33,15,Telecomunicações,Compra de Produto,23,1,0,1,FALSE,18,Masculino,São Paulo,"261,89",Veterano(a),Hip-Hop/Rap,"7,1","6,1",Telecomunicações,Jovem (18-25),Veterano Insatisfeito
+34,16,Beleza,Compra de Produto,12,4,4,"3,7",FALSE,23,Masculino,São Paulo,"501,82",Ocasional,Rock,"8,9","9,4",Beleza,Jovem (18-25),Veterano Insatisfeito
+35,16,Chocolates,Compra de Produto,16,1,0,1,FALSE,23,Masculino,São Paulo,"501,82",Ocasional,Rock,"8,9","9,4",Beleza,Jovem (18-25),Veterano Insatisfeito
+36,17,Chocolates,Compra de Produto,16,1,3,"1,5",FALSE,19,Feminino,Rio De Janeiro,"207,94",Ocasional,Pop,"9,7","8,2",Chocolates,Jovem (18-25),Veterano Insatisfeito
+37,18,Alimentos,Compra de Produto,12,4,2,"3,5",TRUE,30,Feminino,São Paulo,"131,18",Primeira vez,Eletrônico,"8,7","8,2",Alimentos,Adulto (26-35),Veterano Insatisfeito
+38,18,Bebida Não Alcoólica,Visita a Estande,1,1,0,1,FALSE,30,Feminino,São Paulo,"131,18",Primeira vez,Eletrônico,"8,7","8,2",Alimentos,Adulto (26-35),Veterano Insatisfeito
+39,19,Chocolates,Participou de Ativação,13,5,0,"3,2",FALSE,20,Feminino,Vitória,"504,02",Ocasional,Pop,"7,7","9,4",Chocolates,Jovem (18-25),Veterano Insatisfeito
+40,20,Postos de Combustível,Participou de Ativação,13,4,0,2,FALSE,18,Masculino,Rio De Janeiro,"261,89",Ocasional,Rock,"8,3","7,6",Moda,Jovem (18-25),Veterano Insatisfeito
+41,20,Moda,Visita a Estande,10,2,4,"2,1",TRUE,18,Masculino,Rio De Janeiro,"261,89",Ocasional,Rock,"8,3","7,6",Moda,Jovem (18-25),Veterano Insatisfeito
+42,21,Seguros,Visita a Estande,40,2,2,"1,1",FALSE,39,Feminino,Vitória,"261,89",Primeira vez,Rock,"7,6","9,1",Automobilismo,Meia-idade (36-45),Veterano Insatisfeito
+43,21,Moda,Visita a Estande,6,5,3,"3,8",TRUE,39,Feminino,Vitória,"261,89",Primeira vez,Rock,"7,6","9,1",Automobilismo,Meia-idade (36-45),Veterano Insatisfeito
+44,21,Bebida Não Alcoólica,Compra de Produto,25,5,0,"3,2",TRUE,39,Feminino,Vitória,"261,89",Primeira vez,Rock,"7,6","9,1",Automobilismo,Meia-idade (36-45),Veterano Insatisfeito
+45,21,Automobilismo,Compra de Produto,8,5,2,5,TRUE,39,Feminino,Vitória,"261,89",Primeira vez,Rock,"7,6","9,1",Automobilismo,Meia-idade (36-45),Veterano Satisfeito
+46,22,Moda,Compra de Produto,13,5,5,"4,6",TRUE,26,Masculino,São Paulo,"261,89",Veterano(a),Hip-Hop/Rap,"7,8","6,6",Moda,Adulto (26-35),Veterano Satisfeito
+47,22,Bebida Alcoólica,Compra de Produto,7,5,0,"3,3",TRUE,26,Masculino,São Paulo,"261,89",Veterano(a),Hip-Hop/Rap,"7,8","6,6",Moda,Adulto (26-35),Veterano Insatisfeito
+48,23,Alimentos,Compra de Produto,9,2,0,1,FALSE,28,Feminino,Rio de Janeiro,"307,3",Veterano(a),Eletrônico,5,"4,9",Seguros,Adulto (26-35),Veterano Insatisfeito
+49,23,Seguros,Participou de Ativação,15,1,5,"1,5",FALSE,28,Feminino,Rio de Janeiro,"307,3",Veterano(a),Eletrônico,5,"4,9",Seguros,Adulto (26-35),Veterano Insatisfeito
+50,23,Moda,Compra de Produto,12,1,0,1,FALSE,28,Feminino,Rio de Janeiro,"307,3",Veterano(a),Eletrônico,5,"4,9",Seguros,Adulto (26-35),Veterano Insatisfeito
