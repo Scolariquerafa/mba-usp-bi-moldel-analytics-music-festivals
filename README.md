@@ -37,7 +37,12 @@ Este projeto não se caracteriza como um estudo de caso, mas sim como o desenvol
 
 O projeto foi implementado através de um pipeline de dados em Python, composto por cinco etapas sequenciais:
 
-![Fluxograma do Pipeline](visualizations/fluxograma_pipeline.png)
+- 1_ Geração das bases sintéticas
+- 2_ Unificação
+- 3_ Pré-processamento
+- 4_ Enriquecimento
+- 5_ Armazenamento
+
 
 ---
 
@@ -50,16 +55,3 @@ O projeto foi implementado através de um pipeline de dados em Python, composto 
 - `requirements.txt`: Lista das bibliotecas Python necessárias para executar o projeto.
 
 ---
-
-## Como Executar o Projeto
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/Scolariquerafa/mba-usp-bi-moldel-analytics-music-festivals.git
-    cd mba-usp-bi-moldel-analytics-music-festivals
-    ```
-2.  **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Execute os notebooks:** Abra os arquivos `.ipynb` nas pastas `/scripts` e `/notebooks` em um ambiente Jupyter (como o Google Colab) e execute as células em ordem.
